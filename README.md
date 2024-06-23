@@ -4,11 +4,11 @@
 # Sous-domaine - GitSite - Pricing
   [![Version](https://img.shields.io/badge/Version%20:-v1.0-6479ee?labelColor=23272A)](https://pricing.gitsite.dev)
   [![GitHub](https://img.shields.io/badge/20syldev-333333?logo=Github&logoColor=white)](https://github.com/20syldev)
-  [![Portfolio](https://img.shields.io/badge//gitsite-3857ab)](https://github.com/20syldev/gitsite)
+  [![GitSite](https://img.shields.io/badge//gitsite-3857ab)](https://github.com/20syldev/gitsite)
 </div>
 
 ---
 
 ## Qu'est-ce que c'est ?
-Ce dépôt Github est utilisé pour héberger mon sous-domaine **[pricing.gitsite.dev](https://pricing.gitsite.dev)**. Affichant la page **[gitsite.dev/pricing](https://gitsite.dev/pricing)**, venant de mon site personnel.
+Ce dépôt Github est utilisé pour héberger le sous-domaine **[pricing.gitsite.dev](https://pricing.gitsite.dev)**, affichant la page **[gitsite.dev/pricing](https://gitsite.dev/pricing)**.
 Cliquez [ici](https://gitsite.dev) pour aller voir le site ou cliquez [ici](https://github.com/20syldev/gitsite) pour aller voir le dépôt Github.
